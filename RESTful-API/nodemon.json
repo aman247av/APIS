@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_ATLAS_PW" : "MongoDB-2023",
+        "JWT_KEY": "private-key-for-hashing"
+    }
+}
